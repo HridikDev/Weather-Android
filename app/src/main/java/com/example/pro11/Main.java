@@ -1,4 +1,5 @@
 package com.example.pro11;
+
 public class Main {
     private double temp;
     private int humidity;
